@@ -1,5 +1,6 @@
 ## Action Recognition with an Inflated 3D CNN
 **Action Classification의 다양한 논문 분석 및 기능 구현**
+
 Video Recognition
 - 동영상 데이터는 기본적으로 공간적, 시간적 요소로 분해될 수 있다. 
 - 공간적 부분은 동영상에서 묘사된 장면과 물체에 관한 정보를 담고있다. 
